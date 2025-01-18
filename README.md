@@ -1,4 +1,4 @@
-# NFT and Collections Tracker with Automation
+# NFT and Collections Tracker ( Automation )
 is a backend system designed to track and manage NFT collections with advanced automation. Built with Node.js and powered by Blockspan and Alchemy APIs, it provides robust features for ranking collections, retrieving details like volume, last price, and smart contract data, and storing them in a MongoDB database. 
 
 Key Features:
