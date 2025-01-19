@@ -46,8 +46,8 @@ Ensure you have the following installed on your system:
       npm start
      ```
 ### Verifying Installation
-  1. Open your browser and navigate to :
-    ```bash
-      http://localhost:<PORT>
+  1. Open your browser and navigate to
+    ```arduino
+       http://localhost:<PORT>
     ```
   2. You should see the application running!
