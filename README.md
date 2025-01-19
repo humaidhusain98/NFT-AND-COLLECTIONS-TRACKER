@@ -47,7 +47,7 @@ Ensure you have the following installed on your system:
      ```
 ### Verifying Installation
   1. Open your browser and navigate to <br/>
-    ```arduino
+
        http://localhost:<PORT>
-    ```
+ 
   2. You should see the application running!
