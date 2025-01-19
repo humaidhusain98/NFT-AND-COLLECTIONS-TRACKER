@@ -9,3 +9,17 @@ Key Features:
 - Scheduled Updates: Utilizes cron jobs to update prices and rankings of top and categorized collections.
 
 With over 100+ collections and 1000+ NFTs tracked, this project streamlines NFT data management, enabling seamless updates and real-time insights for users.
+
+## Installation and Starting Instructions 
+### Prerequisites
+Ensure you have the following installed on your system:
+  1. Node.js
+  2. npm or yarn
+
+
+### Installation
+  1. Clone the Repository
+     ```bash
+     npm install
+     ```
+  2. Install Dependencies Run the following command to install all the required dependencies listed in package.json:
