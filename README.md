@@ -23,9 +23,10 @@ Ensure you have the following installed on your system:
      git clone git@github.com:humaidhusain98/NFT-AND-COLLECTIONS-TRACKER.git
      cd NFT-AND-COLLECTIONS-TRACKER
      ```
+     
   2. Install Dependencies Run the following command to install all the required dependencies listed in package.json:
-    ```bash
-     npm install
+      ```bash
+       npm install
      ```
 
 ### Configuration
