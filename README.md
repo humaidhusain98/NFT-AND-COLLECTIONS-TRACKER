@@ -30,9 +30,9 @@ Ensure you have the following installed on your system:
      ```
 
 ### Configuration
-  1. Environment Variables Create a .env file in the root directory of the project and add the necessary environment variables. A sample .env.example file might be available in the repository for reference:
+  1. Environment Variables Create a .env file in the root directory of the project and add the necessary environment variables. A sample .env.example file might be available in the repository for reference
      ```bash
-    cp .env.example .env
+      cp .env.example .env
      ```
   2. Edit the .env File Update the file with your configurations
 
